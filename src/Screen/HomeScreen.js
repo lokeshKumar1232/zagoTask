@@ -33,6 +33,7 @@ const HomeScreen = () => {
       price: 200,
       description: "Philadelphia ice creams are lighter, fluffier, and melt more milky on the tongue...",
     },
+    
     {
       id: 5,
       name: 'Midwestern Frozen Custard',
